@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_pager_image.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/item_pager_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_list.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_horizontal_image.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/item_horizontal_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_home.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/item_home.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_image.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_single_image.xml",
+        "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/layout/fragment_single_image.xml"
+    }
+]

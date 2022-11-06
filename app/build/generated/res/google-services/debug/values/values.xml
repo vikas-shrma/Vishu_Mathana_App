@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">113828431956-gos4to7f050710nfb2nit5mhe63c781h.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vishu-mathana.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">113828431956</string>
+    <string name="google_api_key" translatable="false">AIzaSyDTj9qYYtyt_7q80v7HfWF3fPszRLbKkJs</string>
+    <string name="google_app_id" translatable="false">1:113828431956:android:359b9d101fc45d4cbf05c1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDTj9qYYtyt_7q80v7HfWF3fPszRLbKkJs</string>
+    <string name="google_storage_bucket" translatable="false">vishu-mathana.appspot.com</string>
+    <string name="project_id" translatable="false">vishu-mathana</string>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg_color">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ru.tinkoff.scrollingpagerindicator.ScrollingPagerIndicator
+        android:id="@+id/pagerIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:layout_constraintEnd_toEndOf="@id/pager"
+        app:layout_constraintStart_toStartOf="@id/pager"
+        app:layout_constraintTop_toBottomOf="@id/pager"
+        app:spi_dotSelectedColor="#1C8632" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivAbout"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        app:layout_constraintWidth_percent="0.33"
+        android:src="@drawable/icon_about"
+        app:layout_constraintBottom_toTopOf="@id/ivFlyer"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/pagerIndicator"
+        app:layout_constraintVertical_chainStyle="spread" />
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivFlyer"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        app:layout_constraintWidth_percent="0.33"
+        android:layout_weight="1"
+        android:src="@drawable/icon_flyers"
+        app:layout_constraintBottom_toTopOf="@id/bottomBanner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivAbout"
+        app:layout_constraintVertical_chainStyle="spread" />
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivPoster"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        android:layout_weight="1"
+        app:layout_constraintWidth_percent="0.33"
+        android:src="@drawable/icon_poster"
+        app:layout_constraintBottom_toTopOf="@id/ivPainting"
+        app:layout_constraintStart_toEndOf="@id/ivFlyer"
+        app:layout_constraintTop_toBottomOf="@id/pagerIndicator" />
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivPainting"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        app:layout_constraintWidth_percent="0.33"
+        android:src="@drawable/icon_painting"
+        app:layout_constraintBottom_toTopOf="@id/bottomBanner"
+        app:layout_constraintStart_toEndOf="@id/ivFlyer"
+        app:layout_constraintTop_toBottomOf="@id/ivPoster"
+        app:layout_constraintVertical_chainStyle="spread" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        android:layout_weight="1"
+        android:src="@drawable/icon_logo"
+        app:layout_constraintWidth_percent="0.33"
+        app:layout_constraintBottom_toTopOf="@id/ivArtist"
+        app:layout_constraintStart_toEndOf="@id/ivPainting"
+        app:layout_constraintTop_toBottomOf="@id/pagerIndicator"
+        app:layout_constraintVertical_chainStyle="spread" />
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivArtist"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        app:layout_constraintWidth_percent="0.33"
+        android:src="@drawable/icon_artist"
+        app:layout_constraintBottom_toTopOf="@id/bottomBanner"
+        app:layout_constraintStart_toEndOf="@id/ivPoster"
+        app:layout_constraintTop_toBottomOf="@id/ivLogo" />
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/bottomBanner"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/bottom_cover"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

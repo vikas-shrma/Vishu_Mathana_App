@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="pager_height">200dp</dimen>
+    <dimen name="home_icon_height">70dp</dimen>
+    <dimen name="home_top_bap_logo">50dp</dimen>
+
+
+    <dimen name="bottom_logo_size">25dp</dimen>
+
+</resources>

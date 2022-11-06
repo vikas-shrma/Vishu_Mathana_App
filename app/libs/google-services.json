@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113828431956",
+    "firebase_url": "https://vishu-mathana.firebaseio.com",
+    "project_id": "vishu-mathana",
+    "storage_bucket": "vishu-mathana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113828431956:android:359b9d101fc45d4cbf05c1",
+        "android_client_info": {
+          "package_name": "kkn.vishu.mathana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113828431956-gos4to7f050710nfb2nit5mhe63c781h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTj9qYYtyt_7q80v7HfWF3fPszRLbKkJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113828431956-gos4to7f050710nfb2nit5mhe63c781h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

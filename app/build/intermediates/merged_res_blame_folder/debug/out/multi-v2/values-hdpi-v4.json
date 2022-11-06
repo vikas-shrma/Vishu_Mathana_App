@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vikas/.gradle/caches/transforms-2/files-2.1/17dc40b3f369195ba662a8e355e86142/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "197",
+                        "endLines": "9",
+                        "endColumns": "13",
+                        "endOffsets": "469"
+                    }
+                },
+                {
+                    "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/values-hdpi/dimen.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,149,56",
+                        "endColumns": "47,48,44",
+                        "endOffsets": "144,193,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,152",
+                        "endColumns": "47,48,44",
+                        "endOffsets": "98,147,192"
+                    }
+                }
+            ]
+        }
+    ]
+}
