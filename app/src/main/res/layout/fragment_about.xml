@@ -12,12 +12,13 @@
         android:layout_height="match_parent"
         android:padding="10dp">
 
-        <androidx.appcompat.widget.AppCompatTextView
+        <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/tvTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
+            android:src="@drawable/about_book"
             android:text="Vishu Mathana"
             android:textColor="@color/white"
             android:textSize="22sp"

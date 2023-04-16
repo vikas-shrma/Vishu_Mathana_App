@@ -4,19 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/app_bg_color"
+    android:background="@color/white"
     tools:context=".SplashActivity">
 
-    <androidx.appcompat.widget.AppCompatImageView
-        android:id="@+id/ivBack"
-        android:layout_width="45dp"
-        android:layout_height="45dp"
-        android:src="@drawable/ic_back"
-        android:padding="10dp"
-        app:layout_constraintBottom_toBottomOf="@id/logoTopBar"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@id/logoTopBar"
-        app:tint="@color/white" />
 
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/ivClose"
@@ -29,15 +19,32 @@
         app:layout_constraintTop_toTopOf="@id/logoTopBar"
         app:tint="@color/white" />
 
-    <androidx.appcompat.widget.AppCompatImageView
+    <RelativeLayout
         android:id="@+id/logoTopBar"
-        android:layout_width="70dp"
-        android:layout_height="60dp"
-        android:layout_marginTop="5dp"
-        android:src="@drawable/top_bar_logo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:scaleType="fitXY"
+         android:background="@drawable/top_bar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent" >
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivBack"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/ic_back"
+            android:padding="10dp"
+            app:tint="@color/white" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:text="Home"/>
+
+    </RelativeLayout>
 
     <FrameLayout
         android:id="@+id/container"

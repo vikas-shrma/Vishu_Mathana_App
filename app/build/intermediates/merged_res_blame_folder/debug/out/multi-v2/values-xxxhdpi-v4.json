@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "outputFile": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/res/values-xxxhdpi/dimen.xml",
+                    "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/values-xxxhdpi/dimen.xml",
                     "from": {
                         "startLines": "4,5,3",
                         "startColumns": "4,4,4",

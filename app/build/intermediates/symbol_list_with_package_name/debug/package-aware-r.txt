@@ -2247,6 +2247,7 @@ drawable about_1
 drawable about_2
 drawable about_3
 drawable about_4
+drawable app_logo
 drawable avd_hide_password
 drawable avd_show_password
 drawable bottom_cover
@@ -2339,10 +2340,9 @@ drawable sm_youtube
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable top_bar
 drawable top_bar_logo
 drawable vishu_sign
-drawable whatsapp
-drawable whatsapp_icon_large
 id ALT
 id BOTTOM_END
 id BOTTOM_START

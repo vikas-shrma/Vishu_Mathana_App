@@ -1,7 +1,7 @@
-#Sun Nov 06 16:39:45 IST 2022
-base.1=/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+#Sun Apr 16 20:18:33 IST 2023
+base.1=/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 path.1=classes.dex
-base.0=/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.0=/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

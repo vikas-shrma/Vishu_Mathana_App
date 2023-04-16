@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+8-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+9-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 10
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -26,47 +26,47 @@
 16-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
 17
 18    <application
-18-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:5:5-28:19
+18-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:5:5-28:19
 19        android:allowBackup="true"
-19-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:6:9-35
+19-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:6:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.3.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/8007073b06660a463fcce9368db7c15f/core-1.3.2/AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:icon="@mipmap/app_icon"
-23-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:7:9-40
+23-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:7:9-40
 24        android:label="@string/app_name"
-24-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:8:9-41
+24-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:8:9-41
 25        android:roundIcon="@mipmap/app_icon"
-25-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:9:9-45
+25-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:9:9-45
 26        android:supportsRtl="true"
-26-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:10:9-35
+26-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:10:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.MyApplication" >
-28-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:11:9-51
+28-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:11:9-51
 29        <activity
-29-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:13:9-23:20
+29-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:13:9-23:20
 30            android:name="kkn.vishu.mathana.SplashActivity"
-30-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:14:13-43
+30-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:14:13-43
 31            android:theme="@style/splashTheme" >
-31-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:15:13-47
+31-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:15:13-47
 32            <intent-filter>
-32-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:17:13-21:29
+32-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:17:13-21:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:18:17-69
-33-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:18:25-66
+33-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:18:17-69
+33-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:18:25-66
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:20:17-77
-35-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:20:27-74
+35-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:20:17-77
+35-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:20:27-74
 36            </intent-filter>
 37        </activity>
 38        <activity
-38-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:25:9-27:58
+38-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:25:9-27:58
 39            android:name="kkn.vishu.mathana.ui.HomeScreen"
-39-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:26:13-42
+39-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:26:13-42
 40            android:theme="@style/Theme.MyApplication" />
-40-->/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:27:13-55
+40-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:27:13-55
 41
 42        <service
 42-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:12:9-18:19

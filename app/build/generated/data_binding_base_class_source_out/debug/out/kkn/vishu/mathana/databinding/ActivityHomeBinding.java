@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatImageView;
@@ -52,7 +53,7 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final LinearLayout layoutBottomSocial;
 
   @NonNull
-  public final AppCompatImageView logoTopBar;
+  public final RelativeLayout logoTopBar;
 
   @NonNull
   public final AppCompatTextView tvWebsiteLink;
@@ -65,7 +66,7 @@ public final class ActivityHomeBinding implements ViewBinding {
       @NonNull AppCompatImageView ivFacebook, @NonNull AppCompatImageView ivInsta,
       @NonNull AppCompatImageView ivPinInterest, @NonNull AppCompatImageView ivTouTube,
       @NonNull AppCompatImageView ivTwitter, @NonNull AppCompatImageView ivWhatsApp,
-      @NonNull LinearLayout layoutBottomSocial, @NonNull AppCompatImageView logoTopBar,
+      @NonNull LinearLayout layoutBottomSocial, @NonNull RelativeLayout logoTopBar,
       @NonNull AppCompatTextView tvWebsiteLink, @NonNull View whiteLineView) {
     this.rootView = rootView;
     this.container = container;
@@ -171,7 +172,7 @@ public final class ActivityHomeBinding implements ViewBinding {
       }
 
       id = R.id.logoTopBar;
-      AppCompatImageView logoTopBar = rootView.findViewById(id);
+      RelativeLayout logoTopBar = rootView.findViewById(id);
       if (logoTopBar == null) {
         break missingId;
       }

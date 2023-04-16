@@ -54,7 +54,7 @@ class FragmentAbout : Fragment() {
 
         initViewPagers()
 
-        binding.tvDescription.text = getString(R.string.step_1).plus(getString(R.string.step_2)).plus(getString(R.string.step_3)).plus(getString(R.string.step_4)).plus(getString(R.string.step_5)).plus(getString(R.string.step_6)).plus(getString(R.string.step_7))
+        binding.tvDescription.text = getString(R.string.step_8)
 
         (activity as HomeScreen).showVisible(true)
         (activity as HomeScreen).showClose(false)
@@ -99,7 +99,7 @@ class FragmentAbout : Fragment() {
 
           allList = arrayListOf()
 
-            var mDatabase = FirebaseDatabase.getInstance().reference;
+            val mDatabase = FirebaseDatabase.getInstance().reference;
 
             mDatabase.child("profile").addValueEventListener(object : ValueEventListener {
                 override fun onDataChange(snapshot: DataSnapshot) {
