@@ -8,6 +8,8 @@ import kkn.vishu.mathana.data.ImageData
 
 class HomeViewModel : ViewModel() {
 
+    var stringTitle : MutableLiveData<String> = MutableLiveData("")
+
     var selectedPosition : Int = 0
 
     val coverImages : MutableLiveData<List<StorageReference>> = MutableLiveData(listOf())

@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatImageView;
 import androidx.appcompat.widget.AppCompatTextView;
 import androidx.core.widget.NestedScrollView;
 import androidx.recyclerview.widget.RecyclerView;
@@ -26,11 +27,11 @@ public final class FragmentAboutBinding implements ViewBinding {
   public final AppCompatTextView tvDescription;
 
   @NonNull
-  public final AppCompatTextView tvTitle;
+  public final AppCompatImageView tvTitle;
 
   private FragmentAboutBinding(@NonNull NestedScrollView rootView,
       @NonNull RecyclerView recyclerView, @NonNull AppCompatTextView tvDescription,
-      @NonNull AppCompatTextView tvTitle) {
+      @NonNull AppCompatImageView tvTitle) {
     this.rootView = rootView;
     this.recyclerView = recyclerView;
     this.tvDescription = tvDescription;
@@ -77,7 +78,7 @@ public final class FragmentAboutBinding implements ViewBinding {
       }
 
       id = R.id.tvTitle;
-      AppCompatTextView tvTitle = rootView.findViewById(id);
+      AppCompatImageView tvTitle = rootView.findViewById(id);
       if (tvTitle == null) {
         break missingId;
       }

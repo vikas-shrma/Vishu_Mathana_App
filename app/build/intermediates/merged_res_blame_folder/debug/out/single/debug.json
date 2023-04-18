@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable-v24_about_me.png.flat",
+        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable-v24/about_me.png"
+    },
+    {
         "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_top_bar_curve.png.flat",
+        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/top_bar_curve.png"
     },
     {
         "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_iv_close.png.flat",
@@ -206,6 +214,10 @@
     {
         "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_about_book.jpg.flat",
+        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/about_book.jpg"
     },
     {
         "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_ic_back.png.flat",

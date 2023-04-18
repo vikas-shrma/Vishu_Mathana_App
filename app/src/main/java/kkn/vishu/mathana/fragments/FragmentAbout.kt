@@ -54,7 +54,7 @@ class FragmentAbout : Fragment() {
 
         initViewPagers()
 
-        binding.tvDescription.text = getString(R.string.step_8)
+        binding.tvDescription.text = getString(R.string.step_1).plus(getString(R.string.step_2)).plus(getString(R.string.step_3)).plus(getString(R.string.step_4)).plus(getString(R.string.step_5)).plus(getString(R.string.step_6)).plus(getString(R.string.step_7))
 
         (activity as HomeScreen).showVisible(true)
         (activity as HomeScreen).showClose(false)
@@ -91,7 +91,9 @@ class FragmentAbout : Fragment() {
 
     private fun initViewModel() {
 
-        homeViewModel = ViewModelProviders.of(this)[HomeViewModel::class.java]
+        homeViewModel = ViewModelProviders.of(activity!!)[HomeViewModel::class.java]
+
+        homeViewModel.stringTitle.postValue("About")
 
     }
 

@@ -16,9 +16,9 @@ kkn/vishu/mathana/databinding/ItemPagerImageBinding.java
  kkn.vishu.mathana.databinding.ItemPagerImageBinding
 kkn/vishu/mathana/databinding/ItemImageBinding.java
  kkn.vishu.mathana.databinding.ItemImageBinding
-kkn/vishu/mathana/databinding/FragmentListBinding.java
- kkn.vishu.mathana.databinding.FragmentListBinding
-kkn/vishu/mathana/databinding/FragmentHomeBinding.java
- kkn.vishu.mathana.databinding.FragmentHomeBinding
 kkn/vishu/mathana/databinding/ActivityHomeBinding.java
  kkn.vishu.mathana.databinding.ActivityHomeBinding
+kkn/vishu/mathana/databinding/FragmentHomeBinding.java
+ kkn.vishu.mathana.databinding.FragmentHomeBinding
+kkn/vishu/mathana/databinding/FragmentListBinding.java
+ kkn.vishu.mathana.databinding.FragmentListBinding

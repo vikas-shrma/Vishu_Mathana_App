@@ -8,12 +8,9 @@ import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.google.android.gms.tasks.Task
-import com.google.firebase.database.DataSnapshot
-import com.google.firebase.database.DatabaseError
-import com.google.firebase.database.FirebaseDatabase
-import com.google.firebase.database.ValueEventListener
 import com.google.firebase.storage.FirebaseStorage
 import com.google.firebase.storage.ListResult
 import com.google.firebase.storage.StorageReference
@@ -103,9 +100,7 @@ class HomeScreen : AppCompatActivity() {
         binding.ivBack.setOnClickListener {
             onBackPressed()
         }
-        binding.ivClose.setOnClickListener {
-            onBackPressed()
-        }
+
     }
 
 
@@ -141,6 +136,10 @@ class HomeScreen : AppCompatActivity() {
 
         homeViewModel = ViewModelProviders.of(this)[HomeViewModel::class.java]
 
+        homeViewModel.stringTitle.observe(this, Observer {
+
+            binding.tvTopBarTitile.text = it
+        })
     }
 
     fun getUrlFromIntent(url: String?) {
@@ -199,10 +198,6 @@ class HomeScreen : AppCompatActivity() {
 
     fun showClose(isVisible: Boolean) {
 
-        if (isVisible)
-            binding.ivClose.visibility = View.VISIBLE
-        else
-            binding.ivClose.visibility = View.GONE
     }
 
     override fun onBackPressed() {
