@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatImageView;
@@ -26,9 +27,6 @@ public final class ActivityHomeBinding implements ViewBinding {
 
   @NonNull
   public final AppCompatImageView ivBack;
-
-  @NonNull
-  public final AppCompatImageView ivClose;
 
   @NonNull
   public final AppCompatImageView ivFacebook;
@@ -55,22 +53,28 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final AppCompatImageView logoTopBar;
 
   @NonNull
+  public final RelativeLayout topBar;
+
+  @NonNull
+  public final AppCompatTextView tvTopBarTitile;
+
+  @NonNull
   public final AppCompatTextView tvWebsiteLink;
 
   @NonNull
   public final View whiteLineView;
 
   private ActivityHomeBinding(@NonNull ConstraintLayout rootView, @NonNull FrameLayout container,
-      @NonNull AppCompatImageView ivBack, @NonNull AppCompatImageView ivClose,
-      @NonNull AppCompatImageView ivFacebook, @NonNull AppCompatImageView ivInsta,
-      @NonNull AppCompatImageView ivPinInterest, @NonNull AppCompatImageView ivTouTube,
-      @NonNull AppCompatImageView ivTwitter, @NonNull AppCompatImageView ivWhatsApp,
-      @NonNull LinearLayout layoutBottomSocial, @NonNull AppCompatImageView logoTopBar,
-      @NonNull AppCompatTextView tvWebsiteLink, @NonNull View whiteLineView) {
+      @NonNull AppCompatImageView ivBack, @NonNull AppCompatImageView ivFacebook,
+      @NonNull AppCompatImageView ivInsta, @NonNull AppCompatImageView ivPinInterest,
+      @NonNull AppCompatImageView ivTouTube, @NonNull AppCompatImageView ivTwitter,
+      @NonNull AppCompatImageView ivWhatsApp, @NonNull LinearLayout layoutBottomSocial,
+      @NonNull AppCompatImageView logoTopBar, @NonNull RelativeLayout topBar,
+      @NonNull AppCompatTextView tvTopBarTitile, @NonNull AppCompatTextView tvWebsiteLink,
+      @NonNull View whiteLineView) {
     this.rootView = rootView;
     this.container = container;
     this.ivBack = ivBack;
-    this.ivClose = ivClose;
     this.ivFacebook = ivFacebook;
     this.ivInsta = ivInsta;
     this.ivPinInterest = ivPinInterest;
@@ -79,6 +83,8 @@ public final class ActivityHomeBinding implements ViewBinding {
     this.ivWhatsApp = ivWhatsApp;
     this.layoutBottomSocial = layoutBottomSocial;
     this.logoTopBar = logoTopBar;
+    this.topBar = topBar;
+    this.tvTopBarTitile = tvTopBarTitile;
     this.tvWebsiteLink = tvWebsiteLink;
     this.whiteLineView = whiteLineView;
   }
@@ -119,12 +125,6 @@ public final class ActivityHomeBinding implements ViewBinding {
       id = R.id.ivBack;
       AppCompatImageView ivBack = rootView.findViewById(id);
       if (ivBack == null) {
-        break missingId;
-      }
-
-      id = R.id.ivClose;
-      AppCompatImageView ivClose = rootView.findViewById(id);
-      if (ivClose == null) {
         break missingId;
       }
 
@@ -176,6 +176,18 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.topBar;
+      RelativeLayout topBar = rootView.findViewById(id);
+      if (topBar == null) {
+        break missingId;
+      }
+
+      id = R.id.tvTopBarTitile;
+      AppCompatTextView tvTopBarTitile = rootView.findViewById(id);
+      if (tvTopBarTitile == null) {
+        break missingId;
+      }
+
       id = R.id.tvWebsiteLink;
       AppCompatTextView tvWebsiteLink = rootView.findViewById(id);
       if (tvWebsiteLink == null) {
@@ -188,9 +200,9 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityHomeBinding((ConstraintLayout) rootView, container, ivBack, ivClose,
-          ivFacebook, ivInsta, ivPinInterest, ivTouTube, ivTwitter, ivWhatsApp, layoutBottomSocial,
-          logoTopBar, tvWebsiteLink, whiteLineView);
+      return new ActivityHomeBinding((ConstraintLayout) rootView, container, ivBack, ivFacebook,
+          ivInsta, ivPinInterest, ivTouTube, ivTwitter, ivWhatsApp, layoutBottomSocial, logoTopBar,
+          topBar, tvTopBarTitile, tvWebsiteLink, whiteLineView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

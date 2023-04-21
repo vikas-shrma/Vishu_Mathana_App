@@ -91,7 +91,9 @@ class FragmentAbout : Fragment() {
 
     private fun initViewModel() {
 
-        homeViewModel = ViewModelProviders.of(this)[HomeViewModel::class.java]
+        homeViewModel = ViewModelProviders.of(activity!!)[HomeViewModel::class.java]
+
+        homeViewModel.stringTitle.postValue("About")
 
     }
 
@@ -99,7 +101,7 @@ class FragmentAbout : Fragment() {
 
           allList = arrayListOf()
 
-            var mDatabase = FirebaseDatabase.getInstance().reference;
+            val mDatabase = FirebaseDatabase.getInstance().reference;
 
             mDatabase.child("profile").addValueEventListener(object : ValueEventListener {
                 override fun onDataChange(snapshot: DataSnapshot) {

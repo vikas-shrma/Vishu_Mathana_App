@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/165c7358cb5ec06eaa0da32a9606e97e/jetified-viewbinding-4.1.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.3.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7b99d5657bfcd9e4265d3adc62597a60/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:2:1-21:12
@@ -73,25 +73,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vikas/.gradle/cach
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/cfa70520734b1b106526735faccd4931/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/a711b8bb512efcc7bb180cbd04ac98f0/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/80ed9b8221aa6a41e8b9ea32b046f914/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:3:5-32
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:5:5-28:19
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:5:5-28:19
 MERGED from [com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/e9df8b2a7bb5f852955f48bb2a0b0341/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:11:5-19:19
@@ -155,43 +155,43 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/vikas/.gradle/c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/8007073b06660a463fcce9368db7c15f/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:9:9-45
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:9:9-45
 	android:icon
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:7:9-40
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:7:9-40
 	android:allowBackup
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:11:9-51
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:11:9-51
 activity#kkn.vishu.mathana.SplashActivity
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:13:9-23:20
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:13:9-23:20
 	android:theme
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:15:13-47
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:14:13-43
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:14:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:20:27-74
 activity#kkn.vishu.mathana.ui.HomeScreen
-ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:25:9-27:58
+ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:25:9-27:58
 	android:theme
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:27:13-55
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:27:13-55
 	android:name
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml:26:13-42
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:26:13-42
 uses-sdk
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/165c7358cb5ec06eaa0da32a9606e97e/jetified-viewbinding-4.1.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/165c7358cb5ec06eaa0da32a9606e97e/jetified-viewbinding-4.1.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.3.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7b99d5657bfcd9e4265d3adc62597a60/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
@@ -330,16 +330,16 @@ MERGED from [androidx.print:print:1.0.0] /Users/vikas/.gradle/caches/transforms-
 MERGED from [androidx.print:print:1.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/a711b8bb512efcc7bb180cbd04ac98f0/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/80ed9b8221aa6a41e8b9ea32b046f914/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/80ed9b8221aa6a41e8b9ea32b046f914/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:12:9-18:19
 MERGED from [com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/e9df8b2a7bb5f852955f48bb2a0b0341/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:12:9-18:19

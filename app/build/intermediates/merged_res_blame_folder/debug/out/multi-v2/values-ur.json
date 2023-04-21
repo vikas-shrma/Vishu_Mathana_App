@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/Users/vikas/.gradle/caches/transforms-2/files-2.1/17dc40b3f369195ba662a8e355e86142/appcompat-1.2.0/res/values-ur/values-ur.xml",

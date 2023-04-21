@@ -2247,6 +2247,9 @@ drawable about_1
 drawable about_2
 drawable about_3
 drawable about_4
+drawable about_book
+drawable about_me
+drawable app_logo
 drawable avd_hide_password
 drawable avd_show_password
 drawable bottom_cover
@@ -2339,10 +2342,10 @@ drawable sm_youtube
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable top_bar
+drawable top_bar_curve
 drawable top_bar_logo
 drawable vishu_sign
-drawable whatsapp
-drawable whatsapp_icon_large
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2544,7 +2547,6 @@ id item_touch_helper_previous_elevation
 id ivAbout
 id ivArtist
 id ivBack
-id ivClose
 id ivFacebook
 id ivFlyer
 id ivImage
@@ -2733,6 +2735,7 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id top
+id topBar
 id topPanel
 id touch_outside
 id transitionToEnd
@@ -2745,6 +2748,7 @@ id transition_transform
 id triangle
 id tvDescription
 id tvTitle
+id tvTopBarTitile
 id tvWebsiteLink
 id unchecked
 id uniform
@@ -3030,6 +3034,7 @@ string step_4
 string step_5
 string step_6
 string step_7
+string step_8
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

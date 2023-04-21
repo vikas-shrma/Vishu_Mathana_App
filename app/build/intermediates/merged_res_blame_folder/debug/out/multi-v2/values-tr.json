@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vikas/Downloads/My Data/AndroidProjects/External/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "outputFile": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "/Users/vikas/.gradle/caches/transforms-2/files-2.1/5c59999cf7131361c5db414228169251/jetified-play-services-base-17.0.0/res/values-tr/values.xml",

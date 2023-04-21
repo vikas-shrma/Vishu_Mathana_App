@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@color/white"
     android:clickable="true"
     android:focusable="true">
 
@@ -12,12 +12,13 @@
         android:layout_height="match_parent"
         android:padding="10dp">
 
-        <androidx.appcompat.widget.AppCompatTextView
+        <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/tvTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
+            android:src="@drawable/about_me"
             android:text="Vishu Mathana"
             android:textColor="@color/white"
             android:textSize="22sp"
@@ -32,7 +33,7 @@
             android:paddingBottom="5dp"
             android:justificationMode="inter_word"
             android:text="Vishu Mathana"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:textSize="16sp"
             android:textStyle="normal"
 
