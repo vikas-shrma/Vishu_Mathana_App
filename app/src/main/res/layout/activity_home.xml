@@ -7,10 +7,6 @@
     android:background="@color/white"
     tools:context=".SplashActivity">
 
-
-
-
-
     <RelativeLayout
         android:id="@+id/topBar"
         android:layout_width="match_parent"
@@ -43,12 +39,12 @@
 
     </RelativeLayout>
 
-    <androidx.appcompat.widget.AppCompatImageView
+    <LinearLayout
         android:id="@+id/logoTopBar"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:scaleType="fitXY"
-          android:src="@drawable/top_bar_curve"
+        android:layout_height="30dp"
+        android:orientation="horizontal"
+           android:background="@drawable/top_bar_curve_file"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/topBar" />

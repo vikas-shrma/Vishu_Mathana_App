@@ -9,6 +9,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.airbnb.lottie.LottieAnimationView;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -60,13 +61,13 @@ public final class ItemImageBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.animationView;
-      LottieAnimationView animationView = rootView.findViewById(id);
+      LottieAnimationView animationView = ViewBindings.findChildViewById(rootView, id);
       if (animationView == null) {
         break missingId;
       }
 
       id = R.id.ivImage;
-      AppCompatImageView ivImage = rootView.findViewById(id);
+      AppCompatImageView ivImage = ViewBindings.findChildViewById(rootView, id);
       if (ivImage == null) {
         break missingId;
       }

@@ -9,6 +9,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import androidx.viewpager2.widget.ViewPager2;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -93,55 +94,55 @@ public final class FragmentHomeBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.bottomBanner;
-      AppCompatImageView bottomBanner = rootView.findViewById(id);
+      AppCompatImageView bottomBanner = ViewBindings.findChildViewById(rootView, id);
       if (bottomBanner == null) {
         break missingId;
       }
 
       id = R.id.ivAbout;
-      AppCompatImageView ivAbout = rootView.findViewById(id);
+      AppCompatImageView ivAbout = ViewBindings.findChildViewById(rootView, id);
       if (ivAbout == null) {
         break missingId;
       }
 
       id = R.id.ivArtist;
-      AppCompatImageView ivArtist = rootView.findViewById(id);
+      AppCompatImageView ivArtist = ViewBindings.findChildViewById(rootView, id);
       if (ivArtist == null) {
         break missingId;
       }
 
       id = R.id.ivFlyer;
-      AppCompatImageView ivFlyer = rootView.findViewById(id);
+      AppCompatImageView ivFlyer = ViewBindings.findChildViewById(rootView, id);
       if (ivFlyer == null) {
         break missingId;
       }
 
       id = R.id.ivLogo;
-      AppCompatImageView ivLogo = rootView.findViewById(id);
+      AppCompatImageView ivLogo = ViewBindings.findChildViewById(rootView, id);
       if (ivLogo == null) {
         break missingId;
       }
 
       id = R.id.ivPainting;
-      AppCompatImageView ivPainting = rootView.findViewById(id);
+      AppCompatImageView ivPainting = ViewBindings.findChildViewById(rootView, id);
       if (ivPainting == null) {
         break missingId;
       }
 
       id = R.id.ivPoster;
-      AppCompatImageView ivPoster = rootView.findViewById(id);
+      AppCompatImageView ivPoster = ViewBindings.findChildViewById(rootView, id);
       if (ivPoster == null) {
         break missingId;
       }
 
       id = R.id.pager;
-      ViewPager2 pager = rootView.findViewById(id);
+      ViewPager2 pager = ViewBindings.findChildViewById(rootView, id);
       if (pager == null) {
         break missingId;
       }
 
       id = R.id.pagerIndicator;
-      ScrollingPagerIndicator pagerIndicator = rootView.findViewById(id);
+      ScrollingPagerIndicator pagerIndicator = ViewBindings.findChildViewById(rootView, id);
       if (pagerIndicator == null) {
         break missingId;
       }

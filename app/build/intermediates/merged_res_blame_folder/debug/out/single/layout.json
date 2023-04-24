@@ -1,42 +1,46 @@
 [
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_home.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_home.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_list.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_list.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_about.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_home.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_home.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_image.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_horizontal_image.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_horizontal_image.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_horizontal_image.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_horizontal_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/activity_home.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_home.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/activity_splash.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/activity_splash.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_splash.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_list.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_list.xml"
+        "merged": "kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_about.xml",
+        "source": "kkn.vishu.mathana.app-main-25:/layout/fragment_about.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_single_image.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_single_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_pager_image.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_pager_image.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/activity_home.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_home.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_home.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_about.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_about.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_pager_image.xml",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_pager_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_single_image.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_single_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_image.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_image.xml"
     }
 ]

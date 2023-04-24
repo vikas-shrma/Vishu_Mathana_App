@@ -9,6 +9,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -59,7 +60,7 @@ public final class ItemHomeBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.ivImage;
-      AppCompatImageView ivImage = rootView.findViewById(id);
+      AppCompatImageView ivImage = ViewBindings.findChildViewById(rootView, id);
       if (ivImage == null) {
         break missingId;
       }

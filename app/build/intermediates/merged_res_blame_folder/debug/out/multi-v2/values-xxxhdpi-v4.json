@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "outputFile": "kkn.vishu.mathana.app-mergeDebugResources-21:/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/values-xxxhdpi/dimen.xml",
