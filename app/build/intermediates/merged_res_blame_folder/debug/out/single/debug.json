@@ -1,246 +1,590 @@
 [
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable-v24_about_me.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable-v24/about_me.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_about_4.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/about_4.jpg"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_icon_painting.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/icon_painting.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/font_app_regular_font.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/font/app_regular_font.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_about_1.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/about_1.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-mdpi_app_icon.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-mdpi/app_icon.jpg"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_fragment_list.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_list.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/raw_loading_animation.json.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/raw/loading_animation.json"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_pinterest.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_pinterest.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_pinterest.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/pinterest.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_insta.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_insta.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/raw_loading_4.json.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/raw/loading_4.json"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_top_bar.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/top_bar.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_icon_artist.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/icon_artist.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_item_image.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/font_font_medium.ttf.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/font/font_medium.ttf"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_top_bar_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/top_bar_logo.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/raw_loading_3.json.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/raw/loading_3.json"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_website.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/website.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_instagram.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/instagram.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_icon_flyers.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/icon_flyers.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_ic_back.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/ic_back.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xhdpi/app_icon.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_youtube.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/youtube.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_about_2.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/about_2.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_back_button.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/back_button.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_top_bar_curve.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/top_bar_curve.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_amazon.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/amazon.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_iv_close.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/iv_close.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/font_app_light_font.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/font/app_light_font.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_icon_artist.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/icon_artist.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_item_home_new.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_home_new.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_bottom_cover.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/bottom_cover.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_insta.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_insta.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_linkedin.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_linkedin.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_fragment_about.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_about.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_youtube.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_youtube.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_flipkart.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/flipkart.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_top_bar_logo.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/top_bar_logo.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_activity_home.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_home.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_chat.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/chat.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "kkn.vishu.mathana.app-merged_res-23:/layout_fragment_home_new.xml.flat",
+        "source": "kkn.vishu.mathana.app-main-25:/layout/fragment_home_new.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/activity_home.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_about.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/about.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_twitter.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_twitter.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_google_play_books.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/google_play_books.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_item_horizontal_image.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_horizontal_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_about_3.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/about_3.jpg"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xxhdpi/app_icon.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_call.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/call.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_flipkart.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/flipkart.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-hdpi/app_icon.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/font_font_regular.ttf.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/font/font_regular.ttf"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_facebook.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_facebook.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_icon_poster.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/icon_poster.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_icon_logo.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/icon_logo.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_google_play_books.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/google_play_books.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/raw_loading_4.json.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/raw/loading_4.json"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_stroke_home.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/stroke_home.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_about.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/about.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_vishu_sign.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/vishu_sign.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_sm_whatsapp.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/sm_whatsapp.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_book.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/book.jpg"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_fragment_single_image.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_single_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/logo.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_about.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_about_2.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/about_2.jpg"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xxxhdpi/app_icon.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_email.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/email.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/raw_loading_animation.json.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/raw/loading_animation.json"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_back_button.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/back_button.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_about_3.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/about_3.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_website.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/website.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_icon_poster.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/icon_poster.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-hdpi_app_icon.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-hdpi/app_icon.jpg"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-mdpi/app_icon.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_item_home.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_home.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_curve.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/curve.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/activity_splash.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_header.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/header.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_icon_about.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/icon_about.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_twitter.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_twitter.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_fragment_home.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_item_pager_image.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/item_pager_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_activity_splash.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_splash.xml"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/raw_loading_2.json.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/raw/loading_2.json"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_email.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/email.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_icon_painting.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/icon_painting.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_facebook.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_facebook.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_vishu_sign.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/vishu_sign.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_about_book.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/about_book.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_email.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/email.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_ic_back.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/ic_back.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_header.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/header.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_app_logo.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/app_logo.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_bluerose.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/bluerose.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_chat.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/chat.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_about_4.jpg.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/about_4.jpg"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_call.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/call.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/drawable_custom_splash_background.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/drawable/custom_splash_background.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_amazon.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/amazon.png"
     },
     {
-        "merged": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
-        "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/layout/fragment_home.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_top_bar_curve_file.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/top_bar_curve_file.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_curve.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/curve.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_back_button.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/back_button.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_fragment_book.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_app_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/app_logo.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_twitter.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/twitter.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_youtube.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/youtube.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_google_play_books.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/google_play_books.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_facebook.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/facebook.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_item_horizontal_image.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_horizontal_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_curve.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/curve.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_youtube.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_youtube.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_item_home.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_home.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_bluerose.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/bluerose.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/font_font_light.ttf.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/font/font_light.ttf"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_twitter.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/twitter.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/font_app_medium_font.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/font/app_medium_font.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_flipkart.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/flipkart.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_book.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/book.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_item_image.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_icon_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/icon_logo.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_facebook.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_pinterest.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/pinterest.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_icon_flyers.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/icon_flyers.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_instagram.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/instagram.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-pngs-18:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "kkn.vishu.mathana.app-merged_res-23:/layout_item_home_new.xml.flat",
+        "source": "kkn.vishu.mathana.app-main-25:/layout/item_home_new.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_fragment_list.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_fragment_home_new.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_home_new.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_iv_close.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/iv_close.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xxhdpi_app_icon.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xxhdpi/app_icon.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_call.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/call.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_book.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/book.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_amazon.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/amazon.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_website.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/website.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_pinterest.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/pinterest.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_pinterest.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/pinterest.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xxxhdpi_app_icon.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xxxhdpi/app_icon.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_icon_about.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/icon_about.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_linkedin.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_linkedin.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_instagram.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/instagram.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_google_play_books.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/google_play_books.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_email.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/email.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_bluerose.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/bluerose.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_chat.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/chat.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_back_icon.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_about.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/about.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_fragment_single_image.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_single_image.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_header.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/header.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_instagram.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/instagram.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_item_book_link.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_book_link.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_flipkart.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/flipkart.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_twitter.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/twitter.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_facebook.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/facebook.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_call.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/call.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_header.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/header.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_youtube.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/youtube.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_website.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/website.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxxhdpi_chat.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxxhdpi/chat.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_amazon.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/amazon.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_custom_splash_background.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/custom_splash_background.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/mipmap-xhdpi_app_icon.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/mipmap-xhdpi/app_icon.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/raw_loading_3.json.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/raw/loading_3.json"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_about.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/about.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_twitter.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/twitter.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_whatsapp.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_whatsapp.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_logo.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xhdpi_curve.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xhdpi/curve.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_about_1.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/about_1.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-hdpi_bluerose.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-hdpi/bluerose.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_sm_pinterest.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/sm_pinterest.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/raw_loading_2.json.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/raw/loading_2.json"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_youtube.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/youtube.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_book.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/book.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable-xxhdpi_facebook.png.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable-xxhdpi/facebook.png"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/drawable_bottom_cover.jpg.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/drawable/bottom_cover.jpg"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-merged_res-23:/layout_item_pager_image.xml.flat",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_pager_image.xml"
     }
 ]

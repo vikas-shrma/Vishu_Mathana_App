@@ -13,24 +13,24 @@
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:26:5-79
-13-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:26:22-76
+13-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:26:5-79
+13-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:26:22-76
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:27:5-67
-14-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:27:22-64
+14-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:27:5-67
+14-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:27:22-64
 15    <uses-permission android:name="android.permission.WAKE_LOCK" />
-15-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/15b5202c2625738426c6e85b460d7c02/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
-15-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/15b5202c2625738426c6e85b460d7c02/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:22-65
+15-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-3/9cab4a1b34ddef9eb21d13b2e8a58e24/transformed/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+15-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-3/9cab4a1b34ddef9eb21d13b2e8a58e24/transformed/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:22-65
 16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-16-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
-16-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
+16-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
+16-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
 17
 18    <application
 18-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:5:5-28:19
 19        android:allowBackup="true"
 19-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:6:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.3.2] /Users/vikas/.gradle/caches/transforms-2/files-2.1/8007073b06660a463fcce9368db7c15f/core-1.3.2/AndroidManifest.xml:24:18-86
+20-->[androidx.core:core:1.3.2] /Users/vikas/.gradle/caches/transforms-3/8aa8048815a2dc96955584f0b8a76642/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:icon="@mipmap/app_icon"
@@ -69,131 +69,131 @@
 40-->/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/AndroidManifest.xml:27:13-55
 41
 42        <service
-42-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:12:9-18:19
+42-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-3/7370b528fb1488fd678b46ee7742d1e2/transformed/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:12:9-18:19
 43            android:name="com.google.firebase.components.ComponentDiscoveryService"
-43-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:13:13-84
+43-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-3/7370b528fb1488fd678b46ee7742d1e2/transformed/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:13:13-84
 44            android:directBootAware="true"
-44-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
+44-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
 45            android:exported="false" >
-45-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:14:13-37
+45-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-3/7370b528fb1488fd678b46ee7742d1e2/transformed/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:14:13-37
 46            <meta-data
-46-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:15:13-17:85
+46-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-3/7370b528fb1488fd678b46ee7742d1e2/transformed/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:15:13-17:85
 47                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
-47-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:16:17-122
+47-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-3/7370b528fb1488fd678b46ee7742d1e2/transformed/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:16:17-122
 48                android:value="com.google.firebase.components.ComponentRegistrar" />
-48-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/7afa430b6a7f9709e5f57655c26ad559/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:17:17-82
+48-->[com.google.firebase:firebase-storage-ktx:19.2.0] /Users/vikas/.gradle/caches/transforms-3/7370b528fb1488fd678b46ee7742d1e2/transformed/jetified-firebase-storage-ktx-19.2.0/AndroidManifest.xml:17:17-82
 49            <meta-data
-49-->[com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/e9df8b2a7bb5f852955f48bb2a0b0341/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:15:13-17:85
+49-->[com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-3/84ea39b74c4b9e10f9737a78983152c5/transformed/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:15:13-17:85
 50                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
-50-->[com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/e9df8b2a7bb5f852955f48bb2a0b0341/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:16:17-124
+50-->[com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-3/84ea39b74c4b9e10f9737a78983152c5/transformed/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:16:17-124
 51                android:value="com.google.firebase.components.ComponentRegistrar" />
-51-->[com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/e9df8b2a7bb5f852955f48bb2a0b0341/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:17:17-82
+51-->[com.google.firebase:firebase-database-ktx:19.5.1] /Users/vikas/.gradle/caches/transforms-3/84ea39b74c4b9e10f9737a78983152c5/transformed/jetified-firebase-database-ktx-19.5.1/AndroidManifest.xml:17:17-82
 52            <meta-data
-52-->[com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/696a83491b304757c5ec667edd972e64/jetified-firebase-analytics-ktx-18.0.0/AndroidManifest.xml:11:13-13:85
+52-->[com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/vikas/.gradle/caches/transforms-3/5a8ba0821a450661b09b6482b87a2038/transformed/jetified-firebase-analytics-ktx-18.0.0/AndroidManifest.xml:11:13-13:85
 53                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
-53-->[com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/696a83491b304757c5ec667edd972e64/jetified-firebase-analytics-ktx-18.0.0/AndroidManifest.xml:12:17-126
+53-->[com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/vikas/.gradle/caches/transforms-3/5a8ba0821a450661b09b6482b87a2038/transformed/jetified-firebase-analytics-ktx-18.0.0/AndroidManifest.xml:12:17-126
 54                android:value="com.google.firebase.components.ComponentRegistrar" />
-54-->[com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/696a83491b304757c5ec667edd972e64/jetified-firebase-analytics-ktx-18.0.0/AndroidManifest.xml:13:17-82
+54-->[com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/vikas/.gradle/caches/transforms-3/5a8ba0821a450661b09b6482b87a2038/transformed/jetified-firebase-analytics-ktx-18.0.0/AndroidManifest.xml:13:17-82
 55            <meta-data
-55-->[com.google.firebase:firebase-common-ktx:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/b741ef474ca5172d0ea93f0817177682/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:15:13-17:85
+55-->[com.google.firebase:firebase-common-ktx:19.3.1] /Users/vikas/.gradle/caches/transforms-3/3f9989a896f36724b2c3ce768e670baf/transformed/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:15:13-17:85
 56                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
-56-->[com.google.firebase:firebase-common-ktx:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/b741ef474ca5172d0ea93f0817177682/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:16:17-113
+56-->[com.google.firebase:firebase-common-ktx:19.3.1] /Users/vikas/.gradle/caches/transforms-3/3f9989a896f36724b2c3ce768e670baf/transformed/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:16:17-113
 57                android:value="com.google.firebase.components.ComponentRegistrar" />
-57-->[com.google.firebase:firebase-common-ktx:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/b741ef474ca5172d0ea93f0817177682/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:17:17-82
+57-->[com.google.firebase:firebase-common-ktx:19.3.1] /Users/vikas/.gradle/caches/transforms-3/3f9989a896f36724b2c3ce768e670baf/transformed/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:17:17-82
 58            <meta-data
-58-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:33:13-35:85
+58-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:33:13-35:85
 59                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-59-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:34:17-107
+59-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:34:17-107
 60                android:value="com.google.firebase.components.ComponentRegistrar" />
-60-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d40a8a15b8bc79fc9308f86044ae97/jetified-firebase-storage-19.2.0/AndroidManifest.xml:35:17-82
+60-->[com.google.firebase:firebase-storage:19.2.0] /Users/vikas/.gradle/caches/transforms-3/f4573f86cef2dffae4a82e8d5fd105aa/transformed/jetified-firebase-storage-19.2.0/AndroidManifest.xml:35:17-82
 61            <meta-data
-61-->[com.google.firebase:firebase-database:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d665d1e41ac5ce4cdd4491fd77d599b8/jetified-firebase-database-19.5.1/AndroidManifest.xml:32:13-34:85
+61-->[com.google.firebase:firebase-database:19.5.1] /Users/vikas/.gradle/caches/transforms-3/eb7917d313b3a37a2cda4b1e09be7706/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:32:13-34:85
 62                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-62-->[com.google.firebase:firebase-database:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d665d1e41ac5ce4cdd4491fd77d599b8/jetified-firebase-database-19.5.1/AndroidManifest.xml:33:17-109
+62-->[com.google.firebase:firebase-database:19.5.1] /Users/vikas/.gradle/caches/transforms-3/eb7917d313b3a37a2cda4b1e09be7706/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:33:17-109
 63                android:value="com.google.firebase.components.ComponentRegistrar" />
-63-->[com.google.firebase:firebase-database:19.5.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d665d1e41ac5ce4cdd4491fd77d599b8/jetified-firebase-database-19.5.1/AndroidManifest.xml:34:17-82
+63-->[com.google.firebase:firebase-database:19.5.1] /Users/vikas/.gradle/caches/transforms-3/eb7917d313b3a37a2cda4b1e09be7706/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:34:17-82
 64            <meta-data
-64-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/15b5202c2625738426c6e85b460d7c02/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
+64-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-3/9cab4a1b34ddef9eb21d13b2e8a58e24/transformed/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
 65                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-65-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/15b5202c2625738426c6e85b460d7c02/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:31:17-139
+65-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-3/9cab4a1b34ddef9eb21d13b2e8a58e24/transformed/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:31:17-139
 66                android:value="com.google.firebase.components.ComponentRegistrar" />
-66-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/15b5202c2625738426c6e85b460d7c02/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:32:17-82
+66-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/vikas/.gradle/caches/transforms-3/9cab4a1b34ddef9eb21d13b2e8a58e24/transformed/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:32:17-82
 67            <meta-data
-67-->[com.google.firebase:firebase-installations:16.3.3] /Users/vikas/.gradle/caches/transforms-2/files-2.1/49dda10eaf1c21a4e9f9aace6371463b/jetified-firebase-installations-16.3.3/AndroidManifest.xml:17:13-19:85
+67-->[com.google.firebase:firebase-installations:16.3.3] /Users/vikas/.gradle/caches/transforms-3/a7a4ca33696b225d52ac422f3c65ccab/transformed/jetified-firebase-installations-16.3.3/AndroidManifest.xml:17:13-19:85
 68                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-68-->[com.google.firebase:firebase-installations:16.3.3] /Users/vikas/.gradle/caches/transforms-2/files-2.1/49dda10eaf1c21a4e9f9aace6371463b/jetified-firebase-installations-16.3.3/AndroidManifest.xml:18:17-127
+68-->[com.google.firebase:firebase-installations:16.3.3] /Users/vikas/.gradle/caches/transforms-3/a7a4ca33696b225d52ac422f3c65ccab/transformed/jetified-firebase-installations-16.3.3/AndroidManifest.xml:18:17-127
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[com.google.firebase:firebase-installations:16.3.3] /Users/vikas/.gradle/caches/transforms-2/files-2.1/49dda10eaf1c21a4e9f9aace6371463b/jetified-firebase-installations-16.3.3/AndroidManifest.xml:19:17-82
+69-->[com.google.firebase:firebase-installations:16.3.3] /Users/vikas/.gradle/caches/transforms-3/a7a4ca33696b225d52ac422f3c65ccab/transformed/jetified-firebase-installations-16.3.3/AndroidManifest.xml:19:17-82
 70        </service>
 71
 72        <provider
-72-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
+72-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
 73            android:name="com.google.firebase.provider.FirebaseInitProvider"
-73-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
+73-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
 74            android:authorities="kkn.vishu.mathana.firebaseinitprovider"
-74-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
+74-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
 75            android:directBootAware="true"
-75-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
+75-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
 76            android:exported="false"
-76-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
+76-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
 77            android:initOrder="100" />
-77-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-2/files-2.1/f4f8b2c018f4704637a351ab49419fe1/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
+77-->[com.google.firebase:firebase-common:19.3.1] /Users/vikas/.gradle/caches/transforms-3/5c359563eff168dbfabf8fee9525e000/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
 78
 79        <activity
-79-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/5c59999cf7131361c5db414228169251/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+79-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-3/cacbddb3f296fdb00282e4f974814741/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
 80            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-80-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/5c59999cf7131361c5db414228169251/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+80-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-3/cacbddb3f296fdb00282e4f974814741/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
 81            android:exported="false"
-81-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/5c59999cf7131361c5db414228169251/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+81-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-3/cacbddb3f296fdb00282e4f974814741/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
 82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-82-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/5c59999cf7131361c5db414228169251/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+82-->[com.google.android.gms:play-services-base:17.0.0] /Users/vikas/.gradle/caches/transforms-3/cacbddb3f296fdb00282e4f974814741/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
 83
 84        <receiver
-84-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:29:9-33:20
+84-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:29:9-33:20
 85            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-85-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:30:13-85
+85-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:30:13-85
 86            android:enabled="true"
-86-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:31:13-35
+86-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:31:13-35
 87            android:exported="false" >
-87-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:32:13-37
+87-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:32:13-37
 88        </receiver>
 89
 90        <service
-90-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:35:9-38:40
+90-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:35:9-38:40
 91            android:name="com.google.android.gms.measurement.AppMeasurementService"
-91-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:36:13-84
+91-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:36:13-84
 92            android:enabled="true"
-92-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:37:13-35
+92-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:37:13-35
 93            android:exported="false" />
-93-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:38:13-37
+93-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:38:13-37
 94        <service
-94-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:39:9-43:72
+94-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:39:9-43:72
 95            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-95-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:40:13-87
+95-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:40:13-87
 96            android:enabled="true"
-96-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:41:13-35
+96-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:41:13-35
 97            android:exported="false"
-97-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:42:13-37
+97-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:42:13-37
 98            android:permission="android.permission.BIND_JOB_SERVICE" />
-98-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d300cd5613de1c581ac05e03d9e53e22/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:43:13-69
+98-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/vikas/.gradle/caches/transforms-3/7f58037249562357aa77f0a9dd84a8fa/transformed/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:43:13-69
 99
 100        <meta-data
-100-->[com.google.android.gms:play-services-basement:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/94a89335da9512496cb50f9684af94a6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+100-->[com.google.android.gms:play-services-basement:17.0.0] /Users/vikas/.gradle/caches/transforms-3/4a67b5e23ded10aec2e221d805f967f3/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 101            android:name="com.google.android.gms.version"
-101-->[com.google.android.gms:play-services-basement:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/94a89335da9512496cb50f9684af94a6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+101-->[com.google.android.gms:play-services-basement:17.0.0] /Users/vikas/.gradle/caches/transforms-3/4a67b5e23ded10aec2e221d805f967f3/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 102            android:value="@integer/google_play_services_version" />
-102-->[com.google.android.gms:play-services-basement:17.0.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/94a89335da9512496cb50f9684af94a6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+102-->[com.google.android.gms:play-services-basement:17.0.0] /Users/vikas/.gradle/caches/transforms-3/4a67b5e23ded10aec2e221d805f967f3/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 103
 104        <provider
-104-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d575c7f9d9813d39edb9b28c497795/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+104-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-3/888dde3ed71115b58d94a06c4a17e651/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 105            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-105-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d575c7f9d9813d39edb9b28c497795/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+105-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-3/888dde3ed71115b58d94a06c4a17e651/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
 106            android:authorities="kkn.vishu.mathana.lifecycle-process"
-106-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d575c7f9d9813d39edb9b28c497795/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+106-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-3/888dde3ed71115b58d94a06c4a17e651/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 107            android:exported="false"
-107-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d575c7f9d9813d39edb9b28c497795/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+107-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-3/888dde3ed71115b58d94a06c4a17e651/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
 108            android:multiprocess="true" />
-108-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-2/files-2.1/d0d575c7f9d9813d39edb9b28c497795/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+108-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/vikas/.gradle/caches/transforms-3/888dde3ed71115b58d94a06c4a17e651/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
 109    </application>
 110
 111</manifest>

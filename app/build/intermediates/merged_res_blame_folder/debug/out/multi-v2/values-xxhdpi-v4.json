@@ -1,16 +1,38 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "outputFile": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-21:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/values-xxhdpi/dimen.xml",
                     "from": {
-                        "startLines": "4,5,3",
+                        "startLines": "-1,-1,3",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,56",
+                        "endColumns": "-1,-1,44",
+                        "endOffsets": "-1,-1,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
                         "startColumns": "4,4,4",
-                        "startOffsets": "101,149,56",
+                        "startOffsets": "55,103,152",
                         "endColumns": "47,48,44",
-                        "endOffsets": "144,193,96"
+                        "endOffsets": "98,147,192"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "kkn.vishu.mathana.app-mergeDebugResources-21:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/values-xxhdpi/dimen.xml",
+                    "from": {
+                        "startLines": "-1,-1,3",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,56",
+                        "endColumns": "-1,-1,44",
+                        "endOffsets": "-1,-1,96"
                     },
                     "to": {
                         "startLines": "2,3,4",

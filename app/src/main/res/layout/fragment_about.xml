@@ -9,6 +9,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
+
         android:layout_height="match_parent"
         android:padding="10dp">
 
@@ -18,28 +19,29 @@
             android:layout_height="wrap_content"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
-            android:src="@drawable/about_me"
+            android:src="@drawable/about"
             android:text="Vishu Mathana"
             android:textColor="@color/white"
             android:textSize="22sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
+
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvDescription"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:fontFamily="@font/font_light"
+            android:justificationMode="none"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
-            android:justificationMode="inter_word"
             android:text="Vishu Mathana"
             android:textColor="@color/black"
             android:textSize="16sp"
             android:textStyle="normal"
-
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tvTitle" />
-
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerView"
@@ -48,13 +50,13 @@
             android:orientation="horizontal"
             android:layout_marginTop="10dp"
             android:weightSum="2"
+            android:visibility="gone"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tvDescription">
 
         </androidx.recyclerview.widget.RecyclerView>
 
-
-
     </androidx.constraintlayout.widget.ConstraintLayout>
+
 </androidx.core.widget.NestedScrollView>

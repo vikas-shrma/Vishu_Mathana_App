@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item  android:drawable="@color/black"/>
+
+    <item
+        android:bottom="-550dp"
+        android:top="1dp"
+        android:left="-300dp"
+        android:right="-300dp"
+        >
+
+        <shape
+            android:shape="oval">
+            <solid
+                android:color="?android:colorBackground"/>
+        </shape>
+
+
+    </item>
+    </layer-list>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imageHome"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/pager_height"
+        android:scaleType="centerCrop"
+        android:src="@drawable/header"
+        app:flow_horizontalAlign="center" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imageUser"
+         app:layout_constraintBottom_toBottomOf="@id/imageHome"
+         app:layout_constraintTop_toBottomOf="@id/imageHome"
+         android:layout_width="80dp"
+         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_height="80dp"
+        android:src="@drawable/about" />
+    <LinearLayout
+        android:id="@+id/layoutContent"
+        app:layout_constraintTop_toBottomOf="@id/imageUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:fontFamily="@font/font_medium"
+            android:text="VISHU MATHANA"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:fontFamily="@font/font_regular"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:text="GRAPHIC DESIGNER | WRITER"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:fontFamily="@font/font_light"
+            android:textSize="10sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:textColor="@color/black"
+            android:text="This is Vishu Mathana, a Freelancer Graphic Designer and Writer\nbasically from Kurukshetra,Haryana (INDIA)"/>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:fontFamily="@font/font_light"
+                android:textSize="18sp"
+                app:fontFamily="@font/font_medium"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="7,000+"/>
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/black"/>
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                app:fontFamily="@font/font_medium"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:fontFamily="@font/font_light"
+                android:textSize="18sp"
+                android:text="11+"/>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/black"/>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:fontFamily="@font/font_light"
+                android:textSize="18sp"
+                app:fontFamily="@font/font_medium"
+                android:textColor="@color/black"
+                android:text="500+"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-10dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:fontFamily="@font/font_light"
+                android:textSize="10sp"
+                app:fontFamily="@font/font_light"
+                android:textColor="@color/black"
+                android:text="Graphic Design"/>
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/black"/>
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                app:fontFamily="@font/font_light"
+                android:textColor="@color/black"
+                android:gravity="center"
+
+                android:fontFamily="@font/font_light"
+                android:textSize="10sp"
+                android:text="Years Experience"/>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/black"/>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:fontFamily="@font/font_light"
+                android:textSize="10sp"
+                app:fontFamily="@font/font_light"
+                android:textColor="@color/black"
+                android:text="Satisfied Customers"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </LinearLayout>
+
+  <androidx.recyclerview.widget.RecyclerView
+      android:layout_width="match_parent"
+      android:id="@+id/homePager"
+      android:layout_marginTop="10dp"
+      app:layout_constraintBottom_toTopOf="@id/btnHireMeNow"
+      android:layout_height="0dp"
+      tools:itemCount="8"
+      app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+      app:spanCount="2"
+      tools:listitem="@layout/item_home_new"
+      app:layout_constraintTop_toBottomOf="@id/layoutContent"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnHireMeNow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:fontFamily="@font/font_medium"
+        android:padding="10dp"
+        android:text="HIRE ME "/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

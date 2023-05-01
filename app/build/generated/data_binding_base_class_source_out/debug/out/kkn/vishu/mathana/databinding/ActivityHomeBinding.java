@@ -13,6 +13,7 @@ import androidx.appcompat.widget.AppCompatImageView;
 import androidx.appcompat.widget.AppCompatTextView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -50,10 +51,10 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final LinearLayout layoutBottomSocial;
 
   @NonNull
-  public final AppCompatImageView logoTopBar;
+  public final RelativeLayout topBar;
 
   @NonNull
-  public final RelativeLayout topBar;
+  public final LinearLayout topBarCurve;
 
   @NonNull
   public final AppCompatTextView tvTopBarTitile;
@@ -69,7 +70,7 @@ public final class ActivityHomeBinding implements ViewBinding {
       @NonNull AppCompatImageView ivInsta, @NonNull AppCompatImageView ivPinInterest,
       @NonNull AppCompatImageView ivTouTube, @NonNull AppCompatImageView ivTwitter,
       @NonNull AppCompatImageView ivWhatsApp, @NonNull LinearLayout layoutBottomSocial,
-      @NonNull AppCompatImageView logoTopBar, @NonNull RelativeLayout topBar,
+      @NonNull RelativeLayout topBar, @NonNull LinearLayout topBarCurve,
       @NonNull AppCompatTextView tvTopBarTitile, @NonNull AppCompatTextView tvWebsiteLink,
       @NonNull View whiteLineView) {
     this.rootView = rootView;
@@ -82,8 +83,8 @@ public final class ActivityHomeBinding implements ViewBinding {
     this.ivTwitter = ivTwitter;
     this.ivWhatsApp = ivWhatsApp;
     this.layoutBottomSocial = layoutBottomSocial;
-    this.logoTopBar = logoTopBar;
     this.topBar = topBar;
+    this.topBarCurve = topBarCurve;
     this.tvTopBarTitile = tvTopBarTitile;
     this.tvWebsiteLink = tvWebsiteLink;
     this.whiteLineView = whiteLineView;
@@ -117,92 +118,92 @@ public final class ActivityHomeBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.container;
-      FrameLayout container = rootView.findViewById(id);
+      FrameLayout container = ViewBindings.findChildViewById(rootView, id);
       if (container == null) {
         break missingId;
       }
 
       id = R.id.ivBack;
-      AppCompatImageView ivBack = rootView.findViewById(id);
+      AppCompatImageView ivBack = ViewBindings.findChildViewById(rootView, id);
       if (ivBack == null) {
         break missingId;
       }
 
       id = R.id.ivFacebook;
-      AppCompatImageView ivFacebook = rootView.findViewById(id);
+      AppCompatImageView ivFacebook = ViewBindings.findChildViewById(rootView, id);
       if (ivFacebook == null) {
         break missingId;
       }
 
       id = R.id.ivInsta;
-      AppCompatImageView ivInsta = rootView.findViewById(id);
+      AppCompatImageView ivInsta = ViewBindings.findChildViewById(rootView, id);
       if (ivInsta == null) {
         break missingId;
       }
 
       id = R.id.ivPinInterest;
-      AppCompatImageView ivPinInterest = rootView.findViewById(id);
+      AppCompatImageView ivPinInterest = ViewBindings.findChildViewById(rootView, id);
       if (ivPinInterest == null) {
         break missingId;
       }
 
       id = R.id.ivTouTube;
-      AppCompatImageView ivTouTube = rootView.findViewById(id);
+      AppCompatImageView ivTouTube = ViewBindings.findChildViewById(rootView, id);
       if (ivTouTube == null) {
         break missingId;
       }
 
       id = R.id.ivTwitter;
-      AppCompatImageView ivTwitter = rootView.findViewById(id);
+      AppCompatImageView ivTwitter = ViewBindings.findChildViewById(rootView, id);
       if (ivTwitter == null) {
         break missingId;
       }
 
       id = R.id.ivWhatsApp;
-      AppCompatImageView ivWhatsApp = rootView.findViewById(id);
+      AppCompatImageView ivWhatsApp = ViewBindings.findChildViewById(rootView, id);
       if (ivWhatsApp == null) {
         break missingId;
       }
 
       id = R.id.layoutBottomSocial;
-      LinearLayout layoutBottomSocial = rootView.findViewById(id);
+      LinearLayout layoutBottomSocial = ViewBindings.findChildViewById(rootView, id);
       if (layoutBottomSocial == null) {
         break missingId;
       }
 
-      id = R.id.logoTopBar;
-      AppCompatImageView logoTopBar = rootView.findViewById(id);
-      if (logoTopBar == null) {
-        break missingId;
-      }
-
       id = R.id.topBar;
-      RelativeLayout topBar = rootView.findViewById(id);
+      RelativeLayout topBar = ViewBindings.findChildViewById(rootView, id);
       if (topBar == null) {
         break missingId;
       }
 
+      id = R.id.topBarCurve;
+      LinearLayout topBarCurve = ViewBindings.findChildViewById(rootView, id);
+      if (topBarCurve == null) {
+        break missingId;
+      }
+
       id = R.id.tvTopBarTitile;
-      AppCompatTextView tvTopBarTitile = rootView.findViewById(id);
+      AppCompatTextView tvTopBarTitile = ViewBindings.findChildViewById(rootView, id);
       if (tvTopBarTitile == null) {
         break missingId;
       }
 
       id = R.id.tvWebsiteLink;
-      AppCompatTextView tvWebsiteLink = rootView.findViewById(id);
+      AppCompatTextView tvWebsiteLink = ViewBindings.findChildViewById(rootView, id);
       if (tvWebsiteLink == null) {
         break missingId;
       }
 
       id = R.id.whiteLineView;
-      View whiteLineView = rootView.findViewById(id);
+      View whiteLineView = ViewBindings.findChildViewById(rootView, id);
       if (whiteLineView == null) {
         break missingId;
       }
 
       return new ActivityHomeBinding((ConstraintLayout) rootView, container, ivBack, ivFacebook,
-          ivInsta, ivPinInterest, ivTouTube, ivTwitter, ivWhatsApp, layoutBottomSocial, logoTopBar,
-          topBar, tvTopBarTitile, tvWebsiteLink, whiteLineView);
+          ivInsta, ivPinInterest, ivTouTube, ivTwitter, ivWhatsApp, layoutBottomSocial, topBar,
+          topBarCurve, tvTopBarTitile, tvWebsiteLink, whiteLineView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

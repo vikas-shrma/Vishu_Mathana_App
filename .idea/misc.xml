@@ -3,13 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_home.xml" value="0.165" />
+        <entry key="app/src/main/res/drawable/stroke_home.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/top_bar_curve.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/top_bar_curve_file.xml" value="0.229" />
+        <entry key="app/src/main/res/font/app_light_font.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/font/app_medium_font.xml" value="0.265625" />
+        <entry key="app/src/main/res/font/app_regular_font.xml" value="0.265625" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.45" />
         <entry key="app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_book.xml" value="0.375" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home_new.xml" value="0.375" />
         <entry key="app/src/main/res/layout/fragment_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_single_image.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_book_link.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_home_new.xml" value="0.45" />
         <entry key="app/src/main/res/layout/item_image.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_pager_image.xml" value="0.23541666666666666" />
       </map>
     </option>
   </component>

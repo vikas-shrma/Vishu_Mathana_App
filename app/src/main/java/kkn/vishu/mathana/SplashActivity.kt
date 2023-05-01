@@ -21,6 +21,6 @@ class SplashActivity : AppCompatActivity() {
 
             startActivity(Intent(this,HomeScreen::class.java))
             finish()
-        },1000)
+        },10)
     }
 }
