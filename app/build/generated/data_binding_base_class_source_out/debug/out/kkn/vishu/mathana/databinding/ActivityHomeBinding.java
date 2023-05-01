@@ -51,10 +51,10 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final LinearLayout layoutBottomSocial;
 
   @NonNull
-  public final LinearLayout logoTopBar;
+  public final RelativeLayout topBar;
 
   @NonNull
-  public final RelativeLayout topBar;
+  public final LinearLayout topBarCurve;
 
   @NonNull
   public final AppCompatTextView tvTopBarTitile;
@@ -70,7 +70,7 @@ public final class ActivityHomeBinding implements ViewBinding {
       @NonNull AppCompatImageView ivInsta, @NonNull AppCompatImageView ivPinInterest,
       @NonNull AppCompatImageView ivTouTube, @NonNull AppCompatImageView ivTwitter,
       @NonNull AppCompatImageView ivWhatsApp, @NonNull LinearLayout layoutBottomSocial,
-      @NonNull LinearLayout logoTopBar, @NonNull RelativeLayout topBar,
+      @NonNull RelativeLayout topBar, @NonNull LinearLayout topBarCurve,
       @NonNull AppCompatTextView tvTopBarTitile, @NonNull AppCompatTextView tvWebsiteLink,
       @NonNull View whiteLineView) {
     this.rootView = rootView;
@@ -83,8 +83,8 @@ public final class ActivityHomeBinding implements ViewBinding {
     this.ivTwitter = ivTwitter;
     this.ivWhatsApp = ivWhatsApp;
     this.layoutBottomSocial = layoutBottomSocial;
-    this.logoTopBar = logoTopBar;
     this.topBar = topBar;
+    this.topBarCurve = topBarCurve;
     this.tvTopBarTitile = tvTopBarTitile;
     this.tvWebsiteLink = tvWebsiteLink;
     this.whiteLineView = whiteLineView;
@@ -171,15 +171,15 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.logoTopBar;
-      LinearLayout logoTopBar = ViewBindings.findChildViewById(rootView, id);
-      if (logoTopBar == null) {
-        break missingId;
-      }
-
       id = R.id.topBar;
       RelativeLayout topBar = ViewBindings.findChildViewById(rootView, id);
       if (topBar == null) {
+        break missingId;
+      }
+
+      id = R.id.topBarCurve;
+      LinearLayout topBarCurve = ViewBindings.findChildViewById(rootView, id);
+      if (topBarCurve == null) {
         break missingId;
       }
 
@@ -202,8 +202,8 @@ public final class ActivityHomeBinding implements ViewBinding {
       }
 
       return new ActivityHomeBinding((ConstraintLayout) rootView, container, ivBack, ivFacebook,
-          ivInsta, ivPinInterest, ivTouTube, ivTwitter, ivWhatsApp, layoutBottomSocial, logoTopBar,
-          topBar, tvTopBarTitile, tvWebsiteLink, whiteLineView);
+          ivInsta, ivPinInterest, ivTouTube, ivTwitter, ivWhatsApp, layoutBottomSocial, topBar,
+          topBarCurve, tvTopBarTitile, tvWebsiteLink, whiteLineView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

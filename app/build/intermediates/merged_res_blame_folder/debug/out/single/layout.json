@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_list.xml",
-        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_list.xml"
-    },
-    {
-        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_home.xml",
-        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_home.xml"
-    },
-    {
         "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_horizontal_image.xml",
         "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_horizontal_image.xml"
     },
@@ -16,24 +8,48 @@
         "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_home.xml"
     },
     {
-        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/activity_splash.xml",
-        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_splash.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_book.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_book.xml"
     },
     {
-        "merged": "kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_about.xml",
-        "source": "kkn.vishu.mathana.app-main-25:/layout/fragment_about.xml"
-    },
-    {
-        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_pager_image.xml",
-        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_pager_image.xml"
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_home_new.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_home_new.xml"
     },
     {
         "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_home.xml",
         "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_home.xml"
     },
     {
+        "merged": "kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_home_new.xml",
+        "source": "kkn.vishu.mathana.app-main-25:/layout/fragment_home_new.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_home_new.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_home_new.xml"
+    },
+    {
         "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_about.xml",
         "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_book_link.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_book_link.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_list.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_home.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_home.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/activity_splash.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_pager_image.xml",
+        "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_pager_image.xml"
     },
     {
         "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/fragment_single_image.xml",
@@ -42,5 +58,9 @@
     {
         "merged": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_image.xml",
         "source": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-main-25:/layout/item_image.xml"
+    },
+    {
+        "merged": "kkn.vishu.mathana.app-mergeDebugResources-22:/layout/item_home_new.xml",
+        "source": "kkn.vishu.mathana.app-main-25:/layout/item_home_new.xml"
     }
 ]

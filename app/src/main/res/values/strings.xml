@@ -10,4 +10,16 @@
     <string name="step_7">Thanks to all for believing in me and always giving the best possible response to my work. I assure you all to keep this faith intact forever. Because working as a Graphic Designer is not only my profession but passion..!</string>
     <string name="step_8">Our entire life revolves around the words. But some words combined with emotions, have potential to make us laugh and cry all together. They leave such imprints that even cannot be healed or erased by time. Occasionally, the words which seem so simple could be quite intricate at the same time, as sometimes the foundation of the whole life is based on these words.Keeping this all in mind, the name of what is made with all the feelings and eternal love is "Sabkuchh". If you just believe its nothing, but if it is understood profoundly, it is everything.</string>
 
+    <string name="book_about">Our entire life revolves around the words. But some words combined with emotions, have potential to make us laugh and cry all together. They leave such imprints that even cannot be healed or erased by time. Occasionally, the words which seem so simple could be quite intricate at the same time, as sometimes the foundation of the whole life is based on these words. Keeping this all in mind, the name of what is made with all the feelings and eternal love is "Sabkuchh"</string>
+
+    <string-array name="home_menus">
+        <item>ABOUT ME</item>
+        <item>MY BOOK</item>
+        <item>SONG POSTERS</item>
+        <item>EVENT FLYERS</item>
+        <item>DIGITAL FLYERS</item>
+        <item>BUSINESS FLYERS</item>
+        <item>LOGO DESIGN</item>
+        <item>DIGITAL PAINTING</item>
+    </string-array>
 </resources>

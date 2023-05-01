@@ -52,6 +52,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array home_menus
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -2354,6 +2355,7 @@ drawable sm_pinterest
 drawable sm_twitter
 drawable sm_whatsapp
 drawable sm_youtube
+drawable stroke_home
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2364,7 +2366,11 @@ drawable vishu_sign
 drawable website
 drawable youtube
 font app_light_font
+font app_medium_font
+font app_regular_font
 font font_light
+font font_medium
+font font_regular
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2457,6 +2463,7 @@ id blocking
 id bottom
 id bottomBanner
 id bounce
+id btnHireMeNow
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -2550,6 +2557,7 @@ id hardware
 id hideable
 id home
 id homeAsUp
+id homePager
 id honorRequest
 id horizontal
 id icon
@@ -2559,6 +2567,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageHome
+id imageUser
 id info
 id invisible
 id italic
@@ -2583,6 +2593,7 @@ id labeled
 id largeLabel
 id layout
 id layoutBottomSocial
+id layoutContent
 id left
 id light
 id line1
@@ -2590,7 +2601,6 @@ id line3
 id linear
 id listMode
 id list_item
-id logoTopBar
 id lottie_layer_name
 id masked
 id message
@@ -2755,6 +2765,7 @@ id title_template
 id toggle
 id top
 id topBar
+id topBarCurve
 id topPanel
 id touch_outside
 id transitionToEnd
@@ -2766,6 +2777,8 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tvDescription
+id tvImage
+id tvText
 id tvTitle
 id tvTopBarTitile
 id tvWebsiteLink
@@ -2866,10 +2879,14 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dp_example
 layout fragment_about
+layout fragment_book
 layout fragment_home
+layout fragment_home_new
 layout fragment_list
 layout fragment_single_image
+layout item_book_link
 layout item_home
+layout item_home_new
 layout item_horizontal_image
 layout item_image
 layout item_pager_image
@@ -2963,6 +2980,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
+string book_about
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_overflowed_content_description

@@ -93,7 +93,7 @@ class FragmentAbout : Fragment() {
 
         homeViewModel = ViewModelProviders.of(activity!!)[HomeViewModel::class.java]
 
-        homeViewModel.stringTitle.postValue("About")
+        homeViewModel.stringTitle.postValue("ABOUT ME")
 
     }
 

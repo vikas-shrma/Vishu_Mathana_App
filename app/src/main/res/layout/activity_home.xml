@@ -40,7 +40,7 @@
     </RelativeLayout>
 
     <LinearLayout
-        android:id="@+id/logoTopBar"
+        android:id="@+id/topBarCurve"
         android:layout_width="match_parent"
         android:layout_height="30dp"
         android:orientation="horizontal"
@@ -54,11 +54,10 @@
         android:id="@+id/container"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginTop="10dp"
         app:layout_constraintBottom_toTopOf="@id/whiteLineView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/logoTopBar" />
+        app:layout_constraintTop_toBottomOf="@id/topBarCurve" />
 
     <View
         android:id="@+id/whiteLineView"

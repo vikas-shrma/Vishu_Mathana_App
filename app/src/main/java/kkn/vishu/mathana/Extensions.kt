@@ -20,3 +20,9 @@ const val LINK_LINKEDIN = "https://www.linkedin.com/in/vishumathana/?trk=people-
 
 const val LINK_WEBSITE = "https://www.vishumathana.com"
 
+
+val LINK_AMAZON = "https://www.amazon.in/dp/9354272908?ref=myi_title_dp"
+val LINK_FLIPKART = "https://www.flipkart.com/sabkuchh/p/itm958b4a74308f6?pid=9789354272905"
+val LINK_GOOGLE = "https://play.google.com/store/books/details?id=knweEAAAQBAJ&amp;pli=1"
+val LINK_BLUEROSE = "https://bluerosepublishers.com/product/sabkuchh/"
+

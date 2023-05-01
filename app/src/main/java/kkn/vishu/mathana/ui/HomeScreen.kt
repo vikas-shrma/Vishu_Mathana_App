@@ -49,7 +49,7 @@ class HomeScreen : AppCompatActivity() {
 
         initFirebase()
 
-        val fragmentHome = FragmentHome()
+        val fragmentHome = FragmentHomeNew()
         val transaction = supportFragmentManager.beginTransaction()
         transaction.add(binding.container.id, fragmentHome, fragmentHome.javaClass.canonicalName)
         //transaction.addToBackStack(fragmentHome.javaClass.canonicalName)
@@ -157,7 +157,7 @@ class HomeScreen : AppCompatActivity() {
         var fragment = Fragment()
 
         fragment = if (index == 0) {
-            FragmentAbout()
+            FragmentBook()
         } else if (index == 7) {
             FragmentHorizontalList()
         } else if (index != 9) {
@@ -190,9 +190,17 @@ class HomeScreen : AppCompatActivity() {
     fun showVisible(isVisible: Boolean) {
 
         if (isVisible)
+        {
             binding.ivBack.visibility = View.VISIBLE
+            binding.topBar.visibility = View.VISIBLE
+            binding.topBarCurve.visibility = View.VISIBLE
+        }
         else
+        {
             binding.ivBack.visibility = View.GONE
+            binding.topBarCurve.visibility = View.GONE
+            binding.topBar.visibility = View.GONE
+        }
     }
 
 

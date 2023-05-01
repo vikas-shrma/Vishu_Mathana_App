@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "kkn.vishu.mathana.app-mergeDebugResources-21:/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/vikas/.gradle/daemon/7.3.3/kkn.vishu.mathana.app-mergeDebugResources-21:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/values-hdpi/dimen.xml",
@@ -29,6 +29,44 @@
                         "endLines": "6",
                         "endColumns": "13",
                         "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "197",
+                        "endLines": "9",
+                        "endColumns": "13",
+                        "endOffsets": "469"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "kkn.vishu.mathana.app-mergeDebugResources-21:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vikas/Desktop/AndroidProject/vishu_mathana/app/src/main/res/values-hdpi/dimen.xml",
+                    "from": {
+                        "startLines": "-1,-1,3",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,56",
+                        "endColumns": "-1,-1,44",
+                        "endOffsets": "-1,-1,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,152",
+                        "endColumns": "47,48,44",
+                        "endOffsets": "98,147,192"
+                    }
+                },
+                {
+                    "source": "/Users/vikas/.gradle/caches/transforms-3/d4696c7f92a8373f0444e33e8b0ae07c/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "5",

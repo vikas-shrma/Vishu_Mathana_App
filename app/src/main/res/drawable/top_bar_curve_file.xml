@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
     <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-<!--        <item>-->
-<!--            <shape android:shape="rectangle">-->
-<!--                <solid android:color="@color/teal_200"/>-->
-<!--            </shape>-->
-<!--        </item>-->
-<!--        <item-->
-<!--            android:top="10dp"-->
-<!--            android:bottom="0dp"-->
-<!--            android:left="-100dp"-->
-<!--            android:right="-100dp">-->
 
-<!--            <shape-->
-<!--                android:innerRadius="100dp"-->
-<!--                android:shape="rectangle"-->
-<!--                android:useLevel="true">-->
 
-<!--                <solid android:color="@android:color/white"/>-->
-<!--                <corners-->
-
-<!--                    android:bottomLeftRadius="100dp"-->
-<!--                    android:topLeftRadius="150dp"-->
-<!--                    android:topRightRadius="150dp"/>-->
-
-<!--            </shape>-->
-<!--        </item>-->
     <item  android:drawable="@color/black"/>
 
     <item
